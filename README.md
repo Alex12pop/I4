@@ -58,10 +58,6 @@ git remote add origin < url >
 
 ## Примеры LaTeX
 * **Встроенный (Inline):** Площадь круга вычисляется по формуле $S = \pi r^2$.
-* **Блочный (Block):**
-$$
-f(x) = \int_{-\infty}^{\infty} e^{-x^2} dx
-$$
 
 
 
